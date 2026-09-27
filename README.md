@@ -18,7 +18,7 @@ The TLV320AIC3204 provides ADC/DAC conversion and interfaces with the STM32H573 
 
 ## System Architecture
 
-![DSPatch Block Diagram](docs/block-diagram.png)
+![DSPatch Block Diagram](PROJECT DOCUMENTATION/Block Diagram.png)
 
 ## Hardware
 
